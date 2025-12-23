@@ -1,0 +1,4 @@
+@EndUserText.label: 'Travel Aggregation Service Def'
+define service ZUI_TRAVEL_AGGREGATION {
+  expose ZC_TRAVEL_AGGREGATION;
+}

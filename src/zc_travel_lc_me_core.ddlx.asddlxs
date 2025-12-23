@@ -1,0 +1,9 @@
+@Metadata.layer: #CORE
+annotate entity ZC_TRAVEL_LC with
+{
+  @UI.lineItem: [{ position: 10, label: 'Travel Core' }]
+  TravelId;
+  @UI.lineItem: [{ position: 20, label: 'Agency Core'  }]
+  AgencyId;
+
+}
